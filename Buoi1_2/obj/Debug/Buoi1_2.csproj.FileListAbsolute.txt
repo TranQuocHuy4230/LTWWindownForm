@@ -1,0 +1,7 @@
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\bin\Debug\Buoi1_2.exe.config
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\bin\Debug\Buoi1_2.exe
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\bin\Debug\Buoi1_2.pdb
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\obj\Debug\Buoi1_2.csproj.AssemblyReference.cache
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\obj\Debug\Buoi1_2.csproj.CoreCompileInputs.cache
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\obj\Debug\Buoi1_2.exe
+D:\LT Windowform\TranQuocHuy_2121110030\Buoi1_2\obj\Debug\Buoi1_2.pdb
