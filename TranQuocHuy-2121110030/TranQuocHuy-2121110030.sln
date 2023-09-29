@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi03_1", "Buoi03_1\Buoi03_1.csproj", "{EAC6743C-7AAE-4C35-A8AF-2C078A978B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi03_2", "Buoi03_2\Buoi03_2.csproj", "{84EC265B-6977-49AB-B3B0-3534B4D8B5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC6743C-7AAE-4C35-A8AF-2C078A978B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC6743C-7AAE-4C35-A8AF-2C078A978B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC6743C-7AAE-4C35-A8AF-2C078A978B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC6743C-7AAE-4C35-A8AF-2C078A978B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EC265B-6977-49AB-B3B0-3534B4D8B5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EC265B-6977-49AB-B3B0-3534B4D8B5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EC265B-6977-49AB-B3B0-3534B4D8B5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EC265B-6977-49AB-B3B0-3534B4D8B5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993B2A9D-8D58-4796-BE37-F8557E297761}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\bin\Debug\Buoi03_2.exe.config
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\bin\Debug\Buoi03_2.exe
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\bin\Debug\Buoi03_2.pdb
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.Form1.resources
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.Properties.Resources.resources
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.csproj.GenerateResource.cache
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.csproj.CoreCompileInputs.cache
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.exe
+D:\LT Windowform\TranQuocHuy-2121110030\Buoi03_2\obj\Debug\Buoi03_2.pdb
