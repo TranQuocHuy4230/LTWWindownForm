@@ -1,0 +1,10 @@
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\bin\Debug\Bai04_1.exe.config
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\bin\Debug\Bai04_1.exe
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\bin\Debug\Bai04_1.pdb
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.csproj.AssemblyReference.cache
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.Form1.resources
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.Properties.Resources.resources
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.csproj.GenerateResource.cache
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.csproj.CoreCompileInputs.cache
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.exe
+D:\LT Windowform\TranQuocHuy_2121110030_buoi4\Bai04_1\obj\Debug\Bai04_1.pdb
