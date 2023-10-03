@@ -1,0 +1,10 @@
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\bin\Debug\Buoi04_2.exe.config
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\bin\Debug\Buoi04_2.exe
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\bin\Debug\Buoi04_2.pdb
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_3.csproj.AssemblyReference.cache
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_2.Form1.resources
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_2.Properties.Resources.resources
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_3.csproj.GenerateResource.cache
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_3.csproj.CoreCompileInputs.cache
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_2.exe
+D:\LT Windowform\BTVN_Buoi4\Buoi04_2\obj\Debug\Buoi04_2.pdb
