@@ -1,0 +1,9 @@
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.csproj.AssemblyReference.cache
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.frmCTDH.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.frmDH.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.frmLoaiSP.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.frmMain.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.frmSP.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.Properties.Resources.resources
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.csproj.GenerateResource.cache
+D:\LT Windowform\TRanQUocHuy_2121110030_Buoi06\Bai06_2\obj\Debug\Bai06_2.csproj.CoreCompileInputs.cache
