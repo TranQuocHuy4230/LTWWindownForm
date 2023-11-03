@@ -1,0 +1,9 @@
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\bin\Debug\Buoi05_1.exe.config
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\bin\Debug\Buoi05_1.exe
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\bin\Debug\Buoi05_1.pdb
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.Form1.resources
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.Properties.Resources.resources
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.csproj.GenerateResource.cache
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.csproj.CoreCompileInputs.cache
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.exe
+C:\Users\HuyTran\source\repos\TranQuocHuy_2121110030_Buoi05\Buoi05_1\obj\Debug\Buoi05_1.pdb
