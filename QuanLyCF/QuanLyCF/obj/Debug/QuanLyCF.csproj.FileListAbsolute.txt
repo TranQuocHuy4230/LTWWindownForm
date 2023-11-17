@@ -1,0 +1,15 @@
+D:\QuanLyCF\QuanLyCF\bin\Debug\QuanLyCF.exe.config
+D:\QuanLyCF\QuanLyCF\bin\Debug\QuanLyCF.exe
+D:\QuanLyCF\QuanLyCF\bin\Debug\QuanLyCF.pdb
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.csproj.AssemblyReference.cache
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmLogin.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.Properties.Resources.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.csproj.GenerateResource.cache
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.csproj.CoreCompileInputs.cache
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.exe
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.pdb
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmAccountProfile.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmMain.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmAdmin.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmChangePass.resources
+D:\QuanLyCF\QuanLyCF\obj\Debug\QuanLyCF.frmRegister.resources
